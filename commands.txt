@@ -1,0 +1,10 @@
+git init
+git add
+git branch
+git commit -m
+git push
+git checkout
+touch file name
+rm file name
+echo file name
+cat file name
